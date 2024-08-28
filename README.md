@@ -1,2 +1,2 @@
 # mohan-demo
-this a demo for git and github class.
+this a demo for Git & Github class.
